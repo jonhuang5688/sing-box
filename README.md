@@ -91,7 +91,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/ser
 
 
 -----------------------------------------------------
-### 感谢支持！微信打赏甬哥侃侃侃ygkkk
+### 感谢支持！甬哥侃侃侃ygkkk
 ---------------------------------------
 ### 感谢你右上角的star🌟
 [![Stargazers over time](https://starchart.cc/yonggekkk/sing-box-yg.svg)](https://starchart.cc/yonggekkk/sing-box-yg)
